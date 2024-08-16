@@ -1,1 +1,1 @@
-This is chapter 2 in this directory. the chapter has been created.
+This is chapter 2 in this directory and this also got edited while creating a branch. the chapter has been created.
